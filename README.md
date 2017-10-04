@@ -1,3 +1,6 @@
+**This project has moved to https://github.com/willowtreeapps/assertk**
+
+
 # assertk
 assertions for kotlin inspired by assertj
 
